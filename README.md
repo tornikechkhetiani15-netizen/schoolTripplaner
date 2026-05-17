@@ -24,10 +24,3 @@ schoolTripplaner project
 ---
 
 ## 🚀 როგორ გავუშვათ პროექტი ლოკალურად (Local Setup)
-
-პროექტის ლოკალურად გასაშვებად მიყევით შემდეგ ნაბიჯებს:
-
-1. **პროექტის კლონირება:**
-   ```bash
-   git clone <repository-url>
-   cd <project-folder-name>
