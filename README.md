@@ -1,0 +1,2 @@
+# schoolTripplaner
+schoolTripplaner project
